@@ -27,5 +27,9 @@
     - Search Bar 
     - Movie Suggestions 
 
-
+# How to deploy on Firebase 
+npm build 
+firebase init 
+    - give the folder name (build or dist - in our case)
+firebase deploy 
 
